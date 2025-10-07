@@ -38,3 +38,14 @@ Routers & Switches
 Wireless Router
 
 Smart Devices (Lamp, Fan, AC, etc.)
+
+🚀 How to Use
+
+Open the project file in Cisco Packet Tracer
+
+Start the IoT Server and register all IoT devices
+
+Configure wireless settings for smart devices
+
+Test remote control functionality from a laptop or smartphone
+
